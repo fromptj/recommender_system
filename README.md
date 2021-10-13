@@ -1,7 +1,6 @@
 # Recommender System 관련 논문 정리
 
 - Reccommender System 관련 논문의 코드, 데이터, paper 등을 정리해 올려두는 github repo 입니다. 
-- 코드 또는 기타 다른 내용에 문제가 있을 경우, pull requests 또는 e-mail 보내주시면 반영하겠습니다. 
 
 ### Data
 - 활용한 데이터셋은 다음과 같습니다. 아래 링크와 수업 내용을 참고해서 데이터를 직접 다운받아 사용할 수 있습니다.
