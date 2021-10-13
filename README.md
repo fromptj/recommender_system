@@ -5,7 +5,8 @@
 ### 1. 딥러닝 주제 관련
 
 * Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  * [Week 1 - Initialization](/02-Improving-Deep-Neural-Networks/Initialization.ipynb)
+  * [Week 1 - 1 - Initialization](/02-Improving-Deep-Neural-Networks/Initialization.ipynb)
+  * [Week 1 - 2 - Regularization](/02-Improving-Deep-Neural-Networks/Regularization.ipynb)
 
 ### 2. 논문 
 
