@@ -7,6 +7,7 @@
 * Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   * [Week 1 - 1 - Initialization](/02-Improving-Deep-Neural-Networks/Initialization.ipynb)
   * [Week 1 - 2 - Regularization](/02-Improving-Deep-Neural-Networks/Regularization.ipynb)
+  * [Week 1 - 3 - Optimization Methods](/02-Improving-Deep-Neural-Networks/Optimization_methods.ipynb)
 
 ### 2. 논문 
 
