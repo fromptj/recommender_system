@@ -13,7 +13,7 @@
         - [Million Song Dataset](http://millionsongdataset.com/)과 [Last.fm](http://millionsongdataset.com/lastfm/#getting)
 
 ### Paper
-- 수업에 사용될 논문 리스트는 다음과 같습니다.
+- 정리한 논문 리스트는 다음과 같습니다.
     1. Part 2
         - BPR: Bayesian Personalized Ranking from Implicit Feedback
     2. Part 3
