@@ -8,6 +8,7 @@
   * [Week 1 - 1 - Initialization](/02-Improving-Deep-Neural-Networks/Initialization.ipynb)
   * [Week 1 - 2 - Regularization](/02-Improving-Deep-Neural-Networks/Regularization.ipynb)
   * [Week 1 - 3 - Optimization Methods](/02-Improving-Deep-Neural-Networks/Optimization_methods.ipynb)
+  * [Week 1 - 4 - Gradient Checking](/02-Improving-Deep-Neural-Networks/Gradient_Checking.ipynb)
 
 ### 2. 논문 
 
