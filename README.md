@@ -11,7 +11,7 @@
   * [Week 1 - 4 - Gradient Checking](/02-Improving-Deep-Neural-Networks/Gradient_Checking.ipynb)
 
 * Course 4: Convolutional Neural Networks
-  * [Week 2 - Residual Networks](/03-Convolutional-Neural-Networks/Residual_Networks.ipynb
+  * [Week 2 - Residual Networks](/03-Convolutional-Neural-Networks/Residual_Networks.ipynb)
 
 ### 2. 논문 
 
