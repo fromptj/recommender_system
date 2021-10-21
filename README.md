@@ -13,6 +13,9 @@
 * Course 4: Convolutional Neural Networks
   * [Week 2 - Residual Networks](/03-Convolutional-Neural-Networks/Residual_Networks.ipynb)
 
+* Course 5: Sequence Models
+  * [Week 1 - Building a Recurrent Neural Network - Step by Step](/04-Sequence-Models/Building_A_Recurrent_Neural_Network.ipynb)
+
 ### 2. 논문 
 
 #### Image Recognition (이미지 인식)
