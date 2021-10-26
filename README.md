@@ -19,10 +19,10 @@
     2. Part 3
         - LARS: A Location-Aware Recommender System
     3. Part 4
-        - Neural Collaborative Filtering
-        - Factorization Machines
-        - Wide & Deep Learning for Recommender Systems
-        - DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+        - [Neural Collaborative Filtering](/03-Recommender-System-DeepLearning/03-Neural_Collaborative_Filtering.ipynb)
+        - [Factorization Machines](/03-Recommender-System-DeepLearning/02-Factorization_Machine.ipynb)
+        - [Wide & Deep Learning for Recommender Systems](/03-Recommender-System-DeepLearning/04-Wide_And_Deep_Learning.ipynb)
+        - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](/03-Recommender-System-DeepLearning/05-Deep_FM.ipynb)
         - AutoRec: Autoencoders Meet Collaborative Filtering
         - Training Deep AutoEncoders for Collaborative Filtering
         - Joint Training of Ratings and Reviews with Recurrent Recommender Networks
