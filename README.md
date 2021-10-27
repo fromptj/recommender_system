@@ -23,7 +23,7 @@
         - [Factorization Machines](/03-Recommender-System-DeepLearning/02-Factorization_Machine.ipynb)
         - [Wide & Deep Learning for Recommender Systems](/03-Recommender-System-DeepLearning/04-Wide_And_Deep_Learning.ipynb)
         - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](/03-Recommender-System-DeepLearning/05-Deep_FM.ipynb)
-        - AutoRec: Autoencoders Meet Collaborative Filtering
+        - [AutoRec: Autoencoders Meet Collaborative Filtering](/03-Recommender-System-DeepLearning/06-AutoEncoders_Meet_Collaborative_Filtering.ipynb)
         - Training Deep AutoEncoders for Collaborative Filtering
         - Joint Training of Ratings and Reviews with Recurrent Recommender Networks
         - Image-based Recommendations on Styles and Substitutes
