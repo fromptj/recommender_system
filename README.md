@@ -8,7 +8,7 @@
     2. [KMRD](https://github.com/lovit/kmrd)
     3. [Netflix](https://archive.org/details/nf_prize_dataset.tar)
     4. Amazon Product Review / Image
-        - [Download Link]((https://nijianmo.github.io/amazon/index.html))에서 review와 image 데이터 모두 다운로드 할 수 있다. image데이터는 상품별 5-core 데이터를 다운로드한다.
+        - [Download Link]((https://nijianmo.github.io/amazon/index.html))에서 review와 image 데이터 모두 다운로드 할 수 있습니다 image데이터는 상품별 5-core 데이터를 다운로드합니다.
     5. Music dataset
         - [Million Song Dataset](http://millionsongdataset.com/)과 [Last.fm](http://millionsongdataset.com/lastfm/#getting)
 
