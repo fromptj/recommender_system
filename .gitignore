@@ -2,3 +2,5 @@
 
 # 커맨드라인을 사용하기 위한 파일은 푸시하지 않습니다.
 git.ipynb
+model_BERT.h5
+tokenization.py
