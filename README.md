@@ -1,6 +1,7 @@
 # Recommender System 관련 논문 정리
 
 - Reccommender System 관련 논문의 코드, 데이터, paper 등을 정리해 올려두는 github repo 입니다. 
+(원본 출처 : 패스트캠퍼스 강사 이재원님 github https://github.com/jaewonlee-728/fastcampus-RecSys ) 
 
 ### Data
 - 활용한 데이터셋은 다음과 같습니다. 아래 링크 참고해서 데이터를 직접 다운받아 사용할 수 있습니다.
