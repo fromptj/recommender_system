@@ -16,21 +16,8 @@
 
 ### Paper
 - 정리한 논문 리스트는 다음과 같습니다.
-    1. Part 2
-        - BPR: Bayesian Personalized Ranking from Implicit Feedback
-    2. Part 3
-        - LARS: A Location-Aware Recommender System
-    3. Part 4
-        - [Neural Collaborative Filtering](/03-Recommender-System-DeepLearning/03-Neural_Collaborative_Filtering.ipynb)
-        - [Factorization Machines](/03-Recommender-System-DeepLearning/02-Factorization_Machine.ipynb)
-        - [Wide & Deep Learning for Recommender Systems](/03-Recommender-System-DeepLearning/04-Wide_And_Deep_Learning.ipynb)
-        - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](/03-Recommender-System-DeepLearning/05-Deep_FM.ipynb)
-        - [AutoRec: Autoencoders Meet Collaborative Filtering](/03-Recommender-System-DeepLearning/06-AutoEncoders_Meet_Collaborative_Filtering.ipynb)
-        - Training Deep AutoEncoders for Collaborative Filtering
-        - Joint Training of Ratings and Reviews with Recurrent Recommender Networks
-        - Image-based Recommendations on Styles and Substitutes
-        - VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback
-        - Deep content-based music recommendation
-        - Session-based Recommendations with Recurrent Neural Networks
-        - Deep Neural Networks for YouTube Recommendations
-        - Deep Learning Based Recommender System: A Survey and New Perspectives
+    - [Neural Collaborative Filtering](/03-Recommender-System-DeepLearning/03-Neural_Collaborative_Filtering.ipynb)
+    - [Factorization Machines](/03-Recommender-System-DeepLearning/02-Factorization_Machine.ipynb)
+    - [Wide & Deep Learning for Recommender Systems](/03-Recommender-System-DeepLearning/04-Wide_And_Deep_Learning.ipynb)
+    - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](/03-Recommender-System-DeepLearning/05-Deep_FM.ipynb)
+    - [AutoRec: Autoencoders Meet Collaborative Filtering](/03-Recommender-System-DeepLearning/06-AutoEncoders_Meet_Collaborative_Filtering.ipynb)
